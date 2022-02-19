@@ -9,4 +9,6 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514496/4845/rickroll.gif?1643514496" width="40"/> Contact me:</h3>
 <a href="mailto:franciscoggouveia@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/franciscoggouveia@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> 
-<img alt="Discord" src="https://img.shields.io/badge/Surpresas%230621-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://www.linkedin.com/in/francisco-gouveia-76b8a9201/"  target="_blank"> <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/> 
+<img alt="Discord" src="https://img.shields.io/badge/Surpresas%230621-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://www.linkedin.com/in/francisco-gouveia-76b8a9201/"  target="_blank"> <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  
+![Snake animation](https://github.com/Surpr1se0/Surpr1se0/blob/output/github-contribution-grid-snake.svg)
