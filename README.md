@@ -1,14 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514897/9116/excuseme.gif?1643514897" width="60"/> Hey! Excuse me.</h1>
-<p>Welcome to my page! </br> I'm Francisco, Student from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Viseu, Portugal</b>.</p>
-<h3> <img alt="" src="https://emojis.slackmojis.com/emojis/images/1643514896/9102/panik.png?1643514896" width="40"/> Things I code with:</h3>
+# 💾 About Me:
+⚡ My name is Francisco, a 22 year-old tech-savy engineer.<br>🔭 I’m currently finishing my masters in Computer Science.<br>🌱 I’m learning currently Bash Shell Scripting.
 
-<img alt="" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/-Bash-7647b5?logo=GNU%20Bash&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-LaTeX-3b665d?logo=LaTeX&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-ARMv7-5bebf5?logo=arm&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-Gnu%20Arm-4867d9?logo=arm&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-VIM-019733?logo=VIM&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<h3><img alt="" src="https://emojis.slackmojis.com/emojis/images/1643514710/7131/pog.png?1643514710" width="40"/> Setup:</h3>
 
-<img alt="" src="https://img.shields.io/badge/-manjaro-35BF5C?logo=Manjaro&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/-windows%2011-0078D6?logo=Windows&logoColor=white&style=for-the-badge"/> <img alt="" src="https://img.shields.io/badge/i7%209750H%20@%204.5GHz-0078D6.svg?&style=for-the-badge&logo=Intel&logoColor=white%22/%3E"/> <img alt="" src="https://img.shields.io/badge/GTX%201660%20TI%20@%20240Hz%20+%2075Hz-376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/surpresas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-gouveia-76b8a9201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Surprisexd2) 
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514496/4845/rickroll.gif?1643514496" width="40"/> Contact me:</h3>
-<a href="mailto:franciscoggouveia@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/franciscoggouveia@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> 
-<img alt="Discord" src="https://img.shields.io/badge/Surpresas%230621-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://www.linkedin.com/in/francisco-gouveia-76b8a9201/"  target="_blank"> <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  
-![Snake animation](https://github.com/Surpr1se0/Surpr1se0/blob/output/github-contribution-grid-snake.svg)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Surpr1se0 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Surpr1se0 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surpr1se0 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Surpr1se0 &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
