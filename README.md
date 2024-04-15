@@ -1,5 +1,5 @@
 # 💾 About Me:
-⚡ My name is Francisco, a 22 year-old tech-savy engineer.<br>🔭 I’m currently finishing my masters in Computer Science, in the Networking and Infrastructures area<br>🌱 I’m currently learning Bash Shell Scripting.
+⚡ My name is Francisco, a 22 year-old tech-savy engineer.<br>🔭 I’m currently finishing my masters in Computer Science, in the Networking and Infrastructures area.<br>🌱 I’m currently learning Bash Shell Scripting.
 
 
 ## 🌐 Socials:
