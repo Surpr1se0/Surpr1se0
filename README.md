@@ -26,7 +26,3 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ITSM/ITIL](https://img.shields.io/badge/ITSM%20%2F%20ITIL-6A1B9A?style=for-the-badge&logo=knowledgebase&logoColor=white)
-
-# 📊 GitHub Stats:
-![Surpr1se0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surpr1se0&theme=vue-dark&hide_border=true)
-![Surpr1se0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surpr1se0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
