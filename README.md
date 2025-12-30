@@ -1,5 +1,5 @@
 # 💾 About Me:
-⚡ My name is Francisco, a 23 year-old tech-savy Cloud DevOps Engineer.<br>🌱 I’m currently learning Bash Shell Scripting.
+⚡ My name is Francisco, a 23 year-old tech-savy Cloud DevOps Engineer.<br>🌱 I’m currently learning how to bronze in the school of life.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/surpresas) 
