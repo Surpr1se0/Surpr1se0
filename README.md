@@ -26,3 +26,4 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ITSM/ITIL](https://img.shields.io/badge/ITSM%20%2F%20ITIL-6A1B9A?style=for-the-badge&logo=knowledgebase&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
